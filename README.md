@@ -172,22 +172,22 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,526 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-12
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,189 | 🐛 95 | 🌐 Python | 📅 2026-08-12
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,725 | 🐛 657 | 🌐 Go | 📅 2026-08-13
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,527 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-13
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,193 | 🐛 98 | 🌐 Python | 📅 2026-08-13
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,727 | 🐛 656 | 🌐 Go | 📅 2026-08-13
 * [annoy](https://github.com/spotify/annoy) ⭐ 14,282 | 🐛 84 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 12,884 | 🐛 6 | 🌐 Python | 📅 2026-08-12
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,047 | 🐛 251 | 🌐 Java | 📅 2026-08-12
+* [txtai](https://github.com/neuml/txtai) ⭐ 12,885 | 🐛 6 | 🌐 Python | 📅 2026-08-12
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,047 | 🐛 254 | 🌐 Java | 📅 2026-08-13
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
-* [vearch](https://github.com/vearch/vearch) ⭐ 2,319 | 🐛 170 | 🌐 Python | 📅 2026-07-27
+* [vearch](https://github.com/vearch/vearch) ⭐ 2,318 | 🐛 170 | 🌐 Python | 📅 2026-07-27
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,269 | 🐛 82 | 🌐 Python | 📅 2025-10-16
 * [PySerini](https://github.com/castorini/pyserini) ⭐ 2,149 | 🐛 81 | 🌐 Python | 📅 2026-08-12
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,985 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
 * [REALM](https://github.com/google-research/language/tree/master/language/realm) ⭐ 1,793 | 🐛 121 | 🌐 Python | 📅 2026-06-10
-* [rank\_BM25](https://github.com/dorianbrown/rank_bm25) ⭐ 1,373 | 🐛 28 | 🌐 Python | 📅 2026-05-02
+* [rank\_BM25](https://github.com/dorianbrown/rank_bm25) ⭐ 1,374 | 🐛 28 | 🌐 Python | 📅 2026-05-02
 * [FALCONN](https://github.com/FALCONN-LIB/FALCONN) ⭐ 1,159 | 🐛 56 | 🌐 C | 📅 2024-06-01
 * [Tensorflow Similarity](https://github.com/tensorflow/similarity) ⚠️ Archived
 * [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,001 | 🐛 10 | 🌐 Python | 📅 2026-07-11

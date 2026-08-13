@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T12:20:59Z",
+            "last_commit": "2026-08-13T07:51:07Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38526
+            "stars": 38527
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:17:53Z",
+            "last_commit": "2026-08-13T08:35:47Z",
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26189
+            "stars": 26193
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:38:32Z",
+            "last_commit": "2026-08-13T08:26:45Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16725
+            "stars": 16727
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-12T13:42:39Z",
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12884
+            "stars": 12885
           }
         },
         {
@@ -86,7 +86,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T21:21:15Z",
+            "last_commit": "2026-08-13T08:43:27Z",
             "owner": "vespa-engine",
             "repo": "vespa",
             "stars": 7047
@@ -131,7 +131,7 @@
             "last_commit": "2026-07-27T05:29:53Z",
             "owner": "vearch",
             "repo": "vearch",
-            "stars": 2319
+            "stars": 2318
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-05-02T22:17:06Z",
             "owner": "dorianbrown",
             "repo": "rank_bm25",
-            "stars": 1373
+            "stars": 1374
           }
         },
         {
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:36:17.096Z",
+    "last_updated": "2026-08-13T08:48:14.580Z",
     "original_repository": "Agrover112/awesome-semantic-search",
     "original_repository_sha": "028b92c6860f118a13bd1a2d825152a6cd15e96a",
     "enhanced_repository": "enhansome/enhansome-semantic-search",
