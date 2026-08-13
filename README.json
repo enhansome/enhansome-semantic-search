@@ -1,0 +1,614 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scaNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haystack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:17:53Z",
+            "owner": "deepset-ai",
+            "repo": "haystack",
+            "stars": 26189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weaviate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:38:32Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "annoy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-29T14:08:37Z",
+            "owner": "spotify",
+            "repo": "annoy",
+            "stars": 14282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "txtai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:42:39Z",
+            "owner": "neuml",
+            "repo": "txtai",
+            "stars": 12884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vespa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T21:21:15Z",
+            "owner": "vespa-engine",
+            "repo": "vespa",
+            "stars": 7047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LASER",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-02T20:24:47Z",
+            "owner": "facebookresearch",
+            "repo": "LASER",
+            "stars": 3660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELECTRA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-23T03:59:14Z",
+            "owner": "google-research",
+            "repo": "electra",
+            "stars": 2367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T05:29:53Z",
+            "owner": "vearch",
+            "repo": "vearch",
+            "stars": 2319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEIR :Benchmarking IR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T06:38:03Z",
+            "owner": "beir-cellar",
+            "repo": "beir",
+            "stars": 2269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySerini",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:01:25Z",
+            "owner": "castorini",
+            "repo": "pyserini",
+            "stars": 2149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SentEval Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-19T16:54:22Z",
+            "owner": "facebookresearch",
+            "repo": "SentEval",
+            "stars": 2110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embeddinghub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-03T19:09:35Z",
+            "owner": "featureform",
+            "repo": "featureform",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DPR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-06T07:36:18Z",
+            "owner": "facebookresearch",
+            "repo": "DPR",
+            "stars": 1869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REALM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T18:34:36Z",
+            "owner": "google-research",
+            "repo": "language",
+            "stars": 1793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rank_BM25",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-02T22:17:06Z",
+            "owner": "dorianbrown",
+            "repo": "rank_bm25",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FALCONN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-01T14:32:16Z",
+            "owner": "FALCONN-LIB",
+            "repo": "FALCONN",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow Similarity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-06T14:57:49Z",
+            "owner": "tensorflow",
+            "repo": "similarity",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlashRank",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T08:06:27Z",
+            "owner": "PrithivirajDamodaran",
+            "repo": "FlashRank",
+            "stars": 1001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pynndescent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T22:48:17Z",
+            "owner": "lmcinnes",
+            "repo": "pynndescent",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyNNDescent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T22:48:17Z",
+            "owner": "lmcinnes",
+            "repo": "pynndescent",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "natural-language-youtube-search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-15T10:44:05Z",
+            "owner": "haltakov",
+            "repo": "natural-language-youtube-search",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autofaiss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T18:08:02Z",
+            "owner": "criteo",
+            "repo": "autofaiss",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nsg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-26T02:36:47Z",
+            "owner": "ZJULearning",
+            "repo": "nsg",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-07T09:29:44Z",
+            "owner": "AmenRa",
+            "repo": "ranx",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BERTSimilarity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:27:13Z",
+            "owner": "Brokenwind",
+            "repo": "BertSimilarity",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matchzoo-py",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T19:50:11Z",
+            "owner": "NTMC-Community",
+            "repo": "MatchZoo-py",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AquilaDb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-06T18:26:02Z",
+            "owner": "Aquila-Network",
+            "repo": "aquila",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vectorai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-01T00:52:52Z",
+            "owner": "vector-ai",
+            "repo": "vectorai",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emoji semantic search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-01T01:53:16Z",
+            "owner": "lilianweng",
+            "repo": "emoji-semantic-search",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep_text_matching",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-20T03:55:46Z",
+            "owner": "wangle1218",
+            "repo": "deep_text_matching",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semantic-search-through-wikipedia-with-weaviate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-05-31T17:25:22Z",
+            "owner": "weaviate",
+            "repo": "semantic-search-through-wikipedia-with-weaviate",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperTag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-03-25T18:12:41Z",
+            "owner": "Ravn-Tech",
+            "repo": "HyperTag",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STripNet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-06-13T02:37:39Z",
+            "owner": "stephenleo",
+            "repo": "stripnet",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redis HNSW",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-09-01T23:57:31Z",
+            "owner": "zhao-lang",
+            "repo": "redis_hnsw",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BERTSerini",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-13T16:42:39Z",
+            "owner": "castorini",
+            "repo": "bertserini",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZhihuAgent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-23T14:03:31Z",
+            "owner": "SamuelGong",
+            "repo": "ZhihuAgent",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "searchy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-02-23T01:59:29Z",
+            "owner": "lubianat",
+            "repo": "searchy",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgANN",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Libraries and Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BEIR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T06:38:03Z",
+            "owner": "beir-cellar",
+            "repo": "beir",
+            "stars": 2269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WIT : Wikipedia-based Image Text Dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-09-27T20:55:42Z",
+            "owner": "google-research-datasets",
+            "repo": "wit",
+            "stars": 1113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Text Similarity Dataset Hub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-19T22:06:27Z",
+            "owner": "brmson",
+            "repo": "dataset-sts",
+            "stars": 730
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "Have a look at the project board for the task list to contribute to any of the open issues.",
+      "items": [],
+      "title": "Milestones"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:36:17.096Z",
+    "original_repository": "Agrover112/awesome-semantic-search",
+    "original_repository_sha": "028b92c6860f118a13bd1a2d825152a6cd15e96a",
+    "enhanced_repository": "enhansome/enhansome-semantic-search",
+    "enhanced_repository_description": null,
+    "title": "Awesome Semantic-Search with stars"
+  }
+}
