@@ -172,17 +172,17 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,527 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-13
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,193 | 🐛 98 | 🌐 Python | 📅 2026-08-13
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,727 | 🐛 656 | 🌐 Go | 📅 2026-08-13
-* [annoy](https://github.com/spotify/annoy) ⭐ 14,282 | 🐛 84 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 12,885 | 🐛 6 | 🌐 Python | 📅 2026-08-12
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,047 | 🐛 254 | 🌐 Java | 📅 2026-08-13
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,531 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-13
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,205 | 🐛 99 | 🌐 Python | 📅 2026-08-14
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,729 | 🐛 687 | 🌐 Go | 📅 2026-08-14
+* [annoy](https://github.com/spotify/annoy) ⭐ 14,285 | 🐛 84 | 🌐 C++ | 📅 2025-10-29
+* [txtai](https://github.com/neuml/txtai) ⭐ 12,888 | 🐛 6 | 🌐 Python | 📅 2026-08-12
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,047 | 🐛 254 | 🌐 Java | 📅 2026-08-14
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,318 | 🐛 170 | 🌐 Python | 📅 2026-07-27
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,269 | 🐛 82 | 🌐 Python | 📅 2025-10-16
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,149 | 🐛 81 | 🌐 Python | 📅 2026-08-12
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,148 | 🐛 82 | 🌐 Python | 📅 2026-08-13
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,985 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
@@ -243,4 +243,4 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T07:51:07Z",
+            "last_commit": "2026-08-13T19:06:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38527
+            "stars": 38531
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:35:47Z",
+            "last_commit": "2026-08-14T08:22:25Z",
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26193
+            "stars": 26205
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T08:26:45Z",
+            "last_commit": "2026-08-14T08:34:00Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16727
+            "stars": 16729
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-10-29T14:08:37Z",
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14282
+            "stars": 14285
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-12T13:42:39Z",
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12885
+            "stars": 12888
           }
         },
         {
@@ -86,7 +86,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T08:43:27Z",
+            "last_commit": "2026-08-14T07:57:29Z",
             "owner": "vespa-engine",
             "repo": "vespa",
             "stars": 7047
@@ -156,10 +156,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:01:25Z",
+            "last_commit": "2026-08-13T23:12:28Z",
             "owner": "castorini",
             "repo": "pyserini",
-            "stars": 2149
+            "stars": 2148
           }
         },
         {
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:48:14.580Z",
+    "last_updated": "2026-08-14T08:41:30.291Z",
     "original_repository": "Agrover112/awesome-semantic-search",
     "original_repository_sha": "028b92c6860f118a13bd1a2d825152a6cd15e96a",
     "enhanced_repository": "enhansome/enhansome-semantic-search",
