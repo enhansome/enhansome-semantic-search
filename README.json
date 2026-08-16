@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38537
+            "stars": 38543
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:41:40Z",
+            "last_commit": "2026-08-16T07:31:21Z",
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26213
+            "stars": 26219
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T20:56:32Z",
+            "last_commit": "2026-08-16T07:50:27Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16729
+            "stars": 16732
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-12T13:42:39Z",
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12890
+            "stars": 12892
           }
         },
         {
@@ -86,10 +86,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T07:21:00Z",
+            "last_commit": "2026-08-15T20:29:53Z",
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7050
+            "stars": 7052
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-07-27T05:29:53Z",
             "owner": "vearch",
             "repo": "vearch",
-            "stars": 2318
+            "stars": 2319
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2025-10-16T06:38:03Z",
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2268
+            "stars": 2270
           }
         },
         {
@@ -156,10 +156,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:45:47Z",
+            "last_commit": "2026-08-15T22:01:08Z",
             "owner": "castorini",
             "repo": "pyserini",
-            "stars": 2148
+            "stars": 2149
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-05-02T22:17:06Z",
             "owner": "dorianbrown",
             "repo": "rank_bm25",
-            "stars": 1375
+            "stars": 1376
           }
         },
         {
@@ -563,7 +563,7 @@
             "last_commit": "2025-10-16T06:38:03Z",
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2268
+            "stars": 2270
           }
         },
         {
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:49:05.446Z",
+    "last_updated": "2026-08-16T07:50:36.093Z",
     "original_repository": "Agrover112/awesome-semantic-search",
     "original_repository_sha": "028b92c6860f118a13bd1a2d825152a6cd15e96a",
     "enhanced_repository": "enhansome/enhansome-semantic-search",
