@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38608
+            "stars": 38611
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 221654678,
             "language": "Python",
-            "last_commit": "2026-08-24T07:44:24Z",
+            "last_commit": "2026-08-24T14:27:08Z",
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26296
+            "stars": 26304
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-24T08:04:46Z",
+            "last_commit": "2026-08-24T14:18:38Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16749
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-23T23:15:58Z",
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12900
+            "stars": 12903
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 60377070,
             "language": "Java",
-            "last_commit": "2026-08-24T07:45:19Z",
+            "last_commit": "2026-08-24T13:48:52Z",
             "owner": "vespa-engine",
             "repo": "vespa",
             "stars": 7065
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:08:53.589Z",
+    "last_updated": "2026-08-24T14:30:20.835Z",
     "original_repository": "Agrover112/awesome-semantic-search",
     "original_repository_id": 352744922,
     "original_repository_sha": "028b92c6860f118a13bd1a2d825152a6cd15e96a",
