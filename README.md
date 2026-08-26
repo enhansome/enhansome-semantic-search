@@ -172,17 +172,17 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,615 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,311 | 🐛 103 | 🌐 Python | 📅 2026-08-25
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,751 | 🐛 685 | 🌐 Go | 📅 2026-08-25
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,622 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-25
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,318 | 🐛 104 | 🌐 Python | 📅 2026-08-26
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,754 | 🐛 693 | 🌐 Go | 📅 2026-08-26
 * [annoy](https://github.com/spotify/annoy) ⭐ 14,289 | 🐛 86 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 12,905 | 🐛 9 | 🌐 Python | 📅 2026-08-25
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,066 | 🐛 253 | 🌐 Java | 📅 2026-08-25
+* [txtai](https://github.com/neuml/txtai) ⭐ 12,907 | 🐛 9 | 🌐 Python | 📅 2026-08-25
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,068 | 🐛 251 | 🌐 Java | 📅 2026-08-26
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,321 | 🐛 170 | 🌐 Python | 📅 2026-07-27
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,276 | 🐛 83 | 🌐 Python | 📅 2025-10-16
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,152 | 🐛 83 | 🌐 Python | 📅 2026-08-23
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,152 | 🐛 84 | 🌐 Python | 📅 2026-08-26
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,985 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
@@ -190,7 +190,7 @@ Feel free to raise a PR on this repo!
 * [rank\_BM25](https://github.com/dorianbrown/rank_bm25) ⭐ 1,378 | 🐛 28 | 🌐 Python | 📅 2026-05-02
 * [FALCONN](https://github.com/FALCONN-LIB/FALCONN) ⭐ 1,159 | 🐛 56 | 🌐 C | 📅 2024-06-01
 * [Tensorflow Similarity](https://github.com/tensorflow/similarity) ⚠️ Archived
-* [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,000 | 🐛 10 | 🌐 Python | 📅 2026-07-11
+* [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,001 | 🐛 10 | 🌐 Python | 📅 2026-07-11
 * [pynndescent](https://github.com/lmcinnes/pynndescent) ⭐ 970 | 🐛 79 | 🌐 Python | 📅 2026-08-01
 * [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 970 | 🐛 79 | 🌐 Python | 📅 2026-08-01
 * [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) ⭐ 935 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-10-15
@@ -243,4 +243,4 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
