@@ -12,10 +12,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38622
+            "stars": 38630
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 221654678,
             "language": "Python",
-            "last_commit": "2026-08-26T07:05:07Z",
+            "last_commit": "2026-08-27T11:38:13Z",
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26318
+            "stars": 26330
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-26T07:39:37Z",
+            "last_commit": "2026-08-27T11:42:39Z",
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16754
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 286301447,
             "language": "Python",
-            "last_commit": "2026-08-25T12:05:06Z",
+            "last_commit": "2026-08-27T11:46:21Z",
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12907
+            "stars": 12910
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 60377070,
             "language": "Java",
-            "last_commit": "2026-08-26T07:32:52Z",
+            "last_commit": "2026-08-27T11:51:46Z",
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7068
+            "stars": 7069
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-10-16T06:38:03Z",
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2276
+            "stars": 2275
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 219078084,
             "language": "Python",
-            "last_commit": "2026-08-26T02:28:50Z",
+            "last_commit": "2026-08-26T13:24:22Z",
             "owner": "castorini",
             "repo": "pyserini",
-            "stars": 2152
+            "stars": 2154
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-06-10T18:34:36Z",
             "owner": "google-research",
             "repo": "language",
-            "stars": 1794
+            "stars": 1795
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-05-02T22:17:06Z",
             "owner": "dorianbrown",
             "repo": "rank_bm25",
-            "stars": 1378
+            "stars": 1380
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-07-11T08:06:27Z",
             "owner": "PrithivirajDamodaran",
             "repo": "FlashRank",
-            "stars": 1001
+            "stars": 1002
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2025-10-16T06:38:03Z",
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2276
+            "stars": 2275
           }
         },
         {
@@ -629,9 +629,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:05:02.916Z",
-    "original_repository": "Agrover112/awesome-semantic-search",
-    "original_repository_id": 352744922,
+    "last_updated": "2026-08-27T12:03:11.477Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 352744922,
+      "language": null,
+      "last_commit": "2025-12-09T17:49:58Z",
+      "owner": "Agrover112",
+      "repo": "awesome-semantic-search",
+      "stars": 366
+    },
     "original_repository_sha": "028b92c6860f118a13bd1a2d825152a6cd15e96a",
     "enhanced_repository": "enhansome/enhansome-semantic-search",
     "enhanced_repository_description": null,
