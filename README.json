@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 221654678,
             "language": "Python",
-            "last_commit": "2026-08-27T11:38:13Z",
+            "last_commit": "2026-08-27T14:26:31Z",
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26330
+            "stars": 26338
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-27T11:42:39Z",
+            "last_commit": "2026-08-27T17:43:48Z",
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16754
+            "stars": 16756
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 286301447,
             "language": "Python",
-            "last_commit": "2026-08-27T11:46:21Z",
+            "last_commit": "2026-08-27T16:55:49Z",
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12910
+            "stars": 12909
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 60377070,
             "language": "Java",
-            "last_commit": "2026-08-27T11:51:46Z",
+            "last_commit": "2026-08-27T14:58:44Z",
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7069
+            "stars": 7071
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 219078084,
             "language": "Python",
-            "last_commit": "2026-08-26T13:24:22Z",
+            "last_commit": "2026-08-27T16:12:32Z",
             "owner": "castorini",
             "repo": "pyserini",
             "stars": 2154
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:11.477Z",
+    "last_updated": "2026-08-27T18:20:16.364Z",
     "original_repository_info": {
       "archived": false,
       "id": 352744922,

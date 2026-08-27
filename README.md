@@ -172,17 +172,17 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,630 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,330 | 🐛 110 | 🌐 Python | 📅 2026-08-27
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,754 | 🐛 691 | 🌐 Go | 📅 2026-08-27
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,631 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,338 | 🐛 115 | 🌐 Python | 📅 2026-08-27
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,756 | 🐛 692 | 🌐 Go | 📅 2026-08-27
 * [annoy](https://github.com/spotify/annoy) ⭐ 14,289 | 🐛 86 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 12,910 | 🐛 6 | 🌐 Python | 📅 2026-08-27
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,069 | 🐛 254 | 🌐 Java | 📅 2026-08-27
+* [txtai](https://github.com/neuml/txtai) ⭐ 12,909 | 🐛 6 | 🌐 Python | 📅 2026-08-27
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,071 | 🐛 250 | 🌐 Java | 📅 2026-08-27
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,321 | 🐛 170 | 🌐 Python | 📅 2026-07-27
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,275 | 🐛 83 | 🌐 Python | 📅 2025-10-16
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,154 | 🐛 83 | 🌐 Python | 📅 2026-08-26
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,154 | 🐛 83 | 🌐 Python | 📅 2026-08-27
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,985 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
