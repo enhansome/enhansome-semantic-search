@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38641
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -26,12 +35,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+            "homepage": "https://haystack.deepset.ai",
             "id": 221654678,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:26:57Z",
+            "open_issues": 110,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26349
+            "stars": 26352,
+            "topics": [
+              "agent-framework",
+              "agentic-ai",
+              "agentic-rag",
+              "agents",
+              "ai",
+              "ai-agents",
+              "context-engineering",
+              "framework",
+              "genai",
+              "generative-ai",
+              "information-retrieval",
+              "large-language-models",
+              "llm",
+              "mcp",
+              "multi-agent",
+              "orchestration",
+              "python",
+              "rag",
+              "retrieval-augmented-generation",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -42,12 +77,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+            "homepage": "https://weaviate.io/developers/weaviate/",
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-28T18:02:38Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T04:39:38Z",
+            "open_issues": 691,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16758
+            "stars": 16759,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "generative-search",
+              "grpc",
+              "hnsw",
+              "hybrid-search",
+              "image-search",
+              "information-retrieval",
+              "mlops",
+              "nearest-neighbor-search",
+              "neural-search",
+              "recommender-system",
+              "search-engine",
+              "semantic-search",
+              "semantic-search-engine",
+              "similarity-search",
+              "vector-database",
+              "vector-search",
+              "vector-search-engine",
+              "vectors",
+              "weaviate"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -58,12 +119,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk",
+            "homepage": null,
             "id": 9155431,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-29T14:08:37Z",
+            "open_issues": 86,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14291
+            "stars": 14292,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "c-plus-plus",
+              "golang",
+              "locality-sensitive-hashing",
+              "lua",
+              "nearest-neighbor-search",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -74,12 +148,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+            "homepage": "https://neuml.github.io/txtai",
             "id": 286301447,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:55:49Z",
+            "open_issues": 9,
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12911
+            "stars": 12912,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "embeddings",
+              "information-retrieval",
+              "language-model",
+              "large-language-models",
+              "llm",
+              "nlp",
+              "python",
+              "rag",
+              "retrieval-augmented-generation",
+              "search",
+              "search-engine",
+              "semantic-search",
+              "sentence-embeddings",
+              "transformers",
+              "txtai",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -90,12 +190,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI search platform",
+            "homepage": "https://vespa.ai",
             "id": 60377070,
             "language": "Java",
-            "last_commit": "2026-08-28T15:32:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:16:42Z",
+            "open_issues": 255,
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7073
+            "stars": 7073,
+            "topics": [
+              "ai",
+              "big-data",
+              "java",
+              "machine-learning",
+              "rag",
+              "search",
+              "search-engine",
+              "server",
+              "serving-recommendation",
+              "tensor",
+              "vector",
+              "vector-database",
+              "vector-search",
+              "vespa"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -106,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Language-Agnostic SEntence Representations",
+            "homepage": null,
             "id": 138050436,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-02T20:24:47Z",
+            "open_issues": 49,
             "owner": "facebookresearch",
             "repo": "LASER",
-            "stars": 3660
+            "stars": 3660,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -122,12 +247,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators",
+            "homepage": null,
             "id": 246201728,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-23T03:59:14Z",
+            "open_issues": 61,
             "owner": "google-research",
             "repo": "electra",
-            "stars": 2367
+            "stars": 2367,
+            "topics": [
+              "deep-learning",
+              "nlp",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -138,12 +272,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed vector search for AI-native applications",
+            "homepage": "https://vearch.github.io",
             "id": 186332888,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T05:29:53Z",
+            "open_issues": 170,
             "owner": "vearch",
             "repo": "vearch",
-            "stars": 2323
+            "stars": 2323,
+            "topics": [
+              "ai-native",
+              "ai-native-database",
+              "cloud-native",
+              "document-retrieval",
+              "embeddings",
+              "hybrid-search",
+              "rag",
+              "retrieval-augmented-generation",
+              "vector-database",
+              "vector-search",
+              "vectors"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -154,12 +305,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+            "homepage": "http://beir.ai",
             "id": 330622921,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-16T06:38:03Z",
+            "open_issues": 83,
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2276
+            "stars": 2277,
+            "topics": [
+              "benchmark",
+              "bert",
+              "colbert",
+              "dataset",
+              "deep-learning",
+              "dpr",
+              "elasticsearch",
+              "information-retrieval",
+              "llm",
+              "nlp",
+              "passage-retrieval",
+              "pytorch",
+              "question-generation",
+              "rag",
+              "retrieval",
+              "retrieval-models",
+              "sbert",
+              "sentence-transformers",
+              "zero-shot-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -170,12 +346,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pyserini is a Python toolkit for reproducible information retrieval research with sparse and dense representations.",
+            "homepage": "http://pyserini.io/",
             "id": 219078084,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:43:13Z",
+            "open_issues": 82,
             "owner": "castorini",
             "repo": "pyserini",
-            "stars": 2154
+            "stars": 2154,
+            "topics": [
+              "information-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -186,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A python tool for evaluating the quality of sentence embeddings.",
+            "homepage": null,
             "id": 91736144,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-19T16:54:22Z",
+            "open_issues": 37,
             "owner": "facebookresearch",
             "repo": "SentEval",
-            "stars": 2110
+            "stars": 2110,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -202,12 +390,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Virtual Feature Store. Turn your existing data infrastructure into a feature store.",
+            "homepage": "https://www.featureform.com",
             "id": 304530333,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2025-07-03T19:09:35Z",
+            "open_issues": 129,
             "owner": "featureform",
             "repo": "featureform",
-            "stars": 1985
+            "stars": 1985,
+            "topics": [
+              "data-quality",
+              "data-science",
+              "embeddings",
+              "embeddings-similarity",
+              "feature-engineering",
+              "feature-store",
+              "hacktoberfest",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "python",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -218,12 +424,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dense Passage Retriever - is a set of tools and models for open domain Q&A task.",
+            "homepage": null,
             "id": 263491619,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-06T07:36:18Z",
+            "open_issues": 36,
             "owner": "facebookresearch",
             "repo": "DPR",
-            "stars": 1870
+            "stars": 1870,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -234,12 +445,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shared repository for open-sourced projects from the Google AI Language team.",
+            "homepage": "https://ai.google/research/teams/language/",
             "id": 153201352,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-10T18:34:36Z",
+            "open_issues": 121,
             "owner": "google-research",
             "repo": "language",
-            "stars": 1795
+            "stars": 1795,
+            "topics": [
+              "machine-learning",
+              "natural-language-processing",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -250,12 +470,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of BM25 Algorithms in Python",
+            "homepage": null,
             "id": 166720547,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-02T22:17:06Z",
+            "open_issues": 28,
             "owner": "dorianbrown",
             "repo": "rank_bm25",
-            "stars": 1380
+            "stars": 1380,
+            "topics": [
+              "algorithm",
+              "bm25",
+              "information-retrieval",
+              "ranking"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -266,12 +496,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FAst Lookups of Cosine and Other Nearest Neighbors (based on fast locality-sensitive hashing)",
+            "homepage": null,
             "id": 47301041,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-06-01T14:32:16Z",
+            "open_issues": 56,
             "owner": "FALCONN-LIB",
             "repo": "FALCONN",
-            "stars": 1159
+            "stars": 1159,
+            "topics": [
+              "cosine-similarity",
+              "falconn",
+              "fast-lookups",
+              "locality-sensitive-hashing",
+              "lsh",
+              "nearest-neighbor-search",
+              "sketches"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -282,12 +525,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TensorFlow Similarity is a python package focused on making similarity learning quick and easy.",
+            "homepage": null,
             "id": 272499991,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-06T14:57:49Z",
+            "open_issues": 71,
             "owner": "tensorflow",
             "repo": "similarity",
-            "stars": 1020
+            "stars": 1020,
+            "topics": [
+              "barlow-twins",
+              "clustering",
+              "contrastive-learning",
+              "cosine-similarity",
+              "deep-learning",
+              "knn",
+              "machine-learning",
+              "metric-learning",
+              "nearest-neighbor-search",
+              "nearest-neighbors",
+              "python",
+              "simclr",
+              "simclr2",
+              "similarity-learning",
+              "similarity-search",
+              "simsiam",
+              "tensorflow",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -298,12 +565,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lite & Super-fast re-ranking for your search & retrieval pipelines.  Supports SoTA Listwise and Pairwise reranking based on LLMs and  cross-encoders and more.  Created by Prithivi Da, open for PRs & Collaborations.",
+            "homepage": null,
             "id": 727268148,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T08:06:27Z",
+            "open_issues": 10,
             "owner": "PrithivirajDamodaran",
             "repo": "FlashRank",
-            "stars": 1002
+            "stars": 1002,
+            "topics": [
+              "cross-encoder",
+              "full-text-search",
+              "hybrid-search",
+              "lexical-search",
+              "rag",
+              "ranking",
+              "reranking",
+              "retrieval-augmented-generation",
+              "semantic-search",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -314,12 +598,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python nearest neighbor descent for approximate nearest neighbors",
+            "homepage": null,
             "id": 120684701,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-01T22:48:17Z",
+            "open_issues": 79,
             "owner": "lmcinnes",
             "repo": "pynndescent",
-            "stars": 970
+            "stars": 970,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "knn-graphs",
+              "nearest-neighbor-search"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -330,12 +623,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python nearest neighbor descent for approximate nearest neighbors",
+            "homepage": null,
             "id": 120684701,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-01T22:48:17Z",
+            "open_issues": 79,
             "owner": "lmcinnes",
             "repo": "pynndescent",
-            "stars": 970
+            "stars": 970,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "knn-graphs",
+              "nearest-neighbor-search"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -346,12 +648,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search inside YouTube videos using natural language ",
+            "homepage": null,
             "id": 335095422,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-10-15T10:44:05Z",
+            "open_issues": 4,
             "owner": "haltakov",
             "repo": "natural-language-youtube-search",
-            "stars": 935
+            "stars": 935,
+            "topics": [
+              "clip",
+              "computer-vision",
+              "machine-learning",
+              "search",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -362,12 +675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically create Faiss knn indices with the most optimal similarity search parameters.",
+            "homepage": "https://criteo.github.io/autofaiss/",
             "id": 362370646,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T18:08:02Z",
+            "open_issues": 55,
             "owner": "criteo",
             "repo": "autofaiss",
-            "stars": 907
+            "stars": 907,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -378,12 +696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Navigating Spreading-out Graph For Approximate Nearest Neighbor Search",
+            "homepage": null,
             "id": 117340277,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-09-26T02:36:47Z",
+            "open_issues": 11,
             "owner": "ZJULearning",
             "repo": "nsg",
-            "stars": 733
+            "stars": 733,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -394,12 +717,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion 🐍",
+            "homepage": "https://amenra.github.io/ranx",
             "id": 268892956,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T09:29:44Z",
+            "open_issues": 15,
             "owner": "AmenRa",
             "repo": "ranx",
-            "stars": 692
+            "stars": 692,
+            "topics": [
+              "comparison",
+              "data-fusion",
+              "evaluation",
+              "evaluation-metrics",
+              "information-retrieval",
+              "information-retrieval-evaluation",
+              "information-retrieval-metrics",
+              "metasearch",
+              "numba",
+              "python",
+              "rank-fusion",
+              "ranking-metrics",
+              "recommender-systems",
+              "score-fusion"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -410,12 +753,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computing similarity of two sentences with google's BERT algorithm。利用Bert计算句子相似度。语义相似度计算。文本相似度计算。",
+            "homepage": null,
             "id": 171440202,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-24T23:27:13Z",
+            "open_issues": 10,
             "owner": "Brokenwind",
             "repo": "BertSimilarity",
-            "stars": 510
+            "stars": 510,
+            "topics": [
+              "bert",
+              "nlp",
+              "python",
+              "semantic",
+              "similarity",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -426,12 +781,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Facilitating the design, comparison and sharing of deep text matching models.",
+            "homepage": null,
             "id": 192360395,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-03T19:50:11Z",
+            "open_issues": 30,
             "owner": "NTMC-Community",
             "repo": "MatchZoo-py",
-            "stars": 500
+            "stars": 500,
+            "topics": [
+              "deep-learning",
+              "matching",
+              "natural-language-processing",
+              "neural-network",
+              "pytorch",
+              "text",
+              "text-matching"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -442,12 +810,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.",
+            "homepage": "https://aquila.network",
             "id": 182265441,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-05-06T18:26:02Z",
+            "open_issues": 13,
             "owner": "Aquila-Network",
             "repo": "aquila",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "aquila",
+              "embedding",
+              "faiss",
+              "feature-vectors",
+              "image-search",
+              "information-retrieval",
+              "information-retrieval-engine",
+              "knn-search",
+              "nearest-neighbor-search",
+              "neural-information-retrieval",
+              "neural-search",
+              "retrieval",
+              "search-engine",
+              "similarity-search",
+              "similarity-searches",
+              "vector-database",
+              "video-search"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -458,12 +850,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors. ",
+            "homepage": "https://relevance.ai/vectors",
             "id": 299903615,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-01T00:52:52Z",
+            "open_issues": 12,
             "owner": "vector-ai",
             "repo": "vectorai",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "artificial-intelligence",
+              "clustering",
+              "compare-vectors",
+              "deep-learning",
+              "embeddings",
+              "encodings",
+              "machine-learning",
+              "neural-networks",
+              "python",
+              "pytorch",
+              "search",
+              "search-engine",
+              "semantic-search",
+              "tensorflow",
+              "transformers",
+              "vector",
+              "vector-analytics",
+              "vector-search",
+              "vector-similarity",
+              "vector-similarity-database"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -474,12 +892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search the most relevant emojis given a natural language query",
+            "homepage": null,
             "id": 454288418,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-01T01:53:16Z",
+            "open_issues": 3,
             "owner": "lilianweng",
             "repo": "emoji-semantic-search",
-            "stars": 298
+            "stars": 298,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -490,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "implementation several deep text match (text similarly) models for keras . cdssm, arc-ii,match_pyramid, mvlstm ,esim, drcn ,bimpm, bert, albert, raberta",
+            "homepage": null,
             "id": 268108901,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-20T03:55:46Z",
+            "open_issues": 9,
             "owner": "wangle1218",
             "repo": "deep_text_matching",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -506,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine",
+            "homepage": null,
             "id": 421597259,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-31T17:25:22Z",
+            "open_issues": 3,
             "owner": "weaviate",
             "repo": "semantic-search-through-wikipedia-with-weaviate",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -522,12 +955,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "HyperTag - Intuitive Knowledge Management WebApp & CLI for Humans using Deep Learning & Tags",
+            "homepage": null,
             "id": 326179764,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-25T18:12:41Z",
+            "open_issues": 45,
             "owner": "Ravn-Tech",
             "repo": "HyperTag",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "file",
+              "filesystem",
+              "image-retrieval",
+              "images",
+              "knowledge-management",
+              "organization",
+              "pdf",
+              "search",
+              "search-engine",
+              "search-images",
+              "search-text",
+              "semantic-search",
+              "semantic-similarity",
+              "tagging",
+              "tags"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -538,12 +992,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "STriP Net: Semantic Similarity of Scientific Papers (S3P) Network",
+            "homepage": null,
             "id": 444768334,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-13T02:37:39Z",
+            "open_issues": 1,
             "owner": "stephenleo",
             "repo": "stripnet",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "data-science",
+              "natural-language-processing",
+              "network-analysis",
+              "nlp",
+              "research",
+              "scientific-publications",
+              "semantic-similarity",
+              "topic-modeling"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -554,12 +1022,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HSNW module for Redis",
+            "homepage": null,
             "id": 246680661,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2020-09-01T23:57:31Z",
+            "open_issues": 4,
             "owner": "zhao-lang",
             "repo": "redis_hnsw",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "hnsw",
+              "knn",
+              "redis",
+              "redis-module",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -570,12 +1050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BERTserini",
+            "homepage": "https://github.com/castorini/bertserini",
             "id": 278388454,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-13T16:42:39Z",
+            "open_issues": 4,
             "owner": "castorini",
             "repo": "bertserini",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -586,12 +1071,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.",
+            "homepage": null,
             "id": 979389096,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-23T14:03:31Z",
+            "open_issues": 1,
             "owner": "SamuelGong",
             "repo": "ZhihuAgent",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "llm",
+              "qa",
+              "rag",
+              "zhihu"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -602,12 +1097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 370159307,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-02-23T01:59:29Z",
+            "open_issues": 9,
             "owner": "lubianat",
             "repo": "searchy",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         }
@@ -624,12 +1124,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.",
+            "homepage": "http://beir.ai",
             "id": 330622921,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-16T06:38:03Z",
+            "open_issues": 83,
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2276
+            "stars": 2277,
+            "topics": [
+              "benchmark",
+              "bert",
+              "colbert",
+              "dataset",
+              "deep-learning",
+              "dpr",
+              "elasticsearch",
+              "information-retrieval",
+              "llm",
+              "nlp",
+              "passage-retrieval",
+              "pytorch",
+              "question-generation",
+              "rag",
+              "retrieval",
+              "retrieval-models",
+              "sbert",
+              "sentence-transformers",
+              "zero-shot-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -640,12 +1165,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.",
+            "homepage": "https://github.com/google-research-datasets/wit",
             "id": 342013716,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-27T20:55:42Z",
+            "open_issues": 1,
             "owner": "google-research-datasets",
             "repo": "wit",
-            "stars": 1113
+            "stars": 1113,
+            "topics": [
+              "cc-by-sa-3",
+              "machine-learning",
+              "multilingual",
+              "multimodal",
+              "nlp",
+              "wikipedia"
+            ]
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         },
@@ -656,12 +1193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic Text Similarity Dataset Hub",
+            "homepage": null,
             "id": 50079006,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-19T22:06:27Z",
+            "open_issues": 23,
             "owner": "brmson",
             "repo": "dataset-sts",
-            "stars": 730
+            "stars": 730,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
         }
@@ -670,15 +1212,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:29:29.412Z",
+    "last_updated": "2026-08-29T04:44:16.194Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks.",
+      "homepage": null,
       "id": 352744922,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-09T17:49:58Z",
+      "open_issues": 11,
       "owner": "Agrover112",
       "repo": "awesome-semantic-search",
-      "stars": 366
+      "stars": 366,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "information-retrieval",
+        "information-retrival",
+        "nlp",
+        "ranking",
+        "semantic-search",
+        "semantic-similarity",
+        "sentence-embeddings"
+      ]
     },
     "original_repository_sha": "028b92c6860f118a13bd1a2d825152a6cd15e96a",
     "enhanced_repository": "enhansome/enhansome-semantic-search",
