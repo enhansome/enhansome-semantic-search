@@ -19,7 +19,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38646,
             "topics": [
               "ai",
               "machine-learning",
@@ -40,11 +40,11 @@
             "id": 221654678,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T14:26:57Z",
-            "open_issues": 110,
+            "last_commit": "2026-08-29T06:46:04Z",
+            "open_issues": 113,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26352,
+            "stars": 26354,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -82,8 +82,8 @@
             "id": 55072677,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T04:39:38Z",
-            "open_issues": 691,
+            "last_commit": "2026-08-29T09:58:35Z",
+            "open_issues": 692,
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16759,
@@ -199,7 +199,7 @@
             "open_issues": 255,
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7073,
+            "stars": 7072,
             "topics": [
               "ai",
               "big-data",
@@ -314,7 +314,7 @@
             "open_issues": 83,
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2277,
+            "stars": 2278,
             "topics": [
               "benchmark",
               "bert",
@@ -352,7 +352,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:43:13Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "castorini",
             "repo": "pyserini",
             "stars": 2154,
@@ -479,7 +479,7 @@
             "open_issues": 28,
             "owner": "dorianbrown",
             "repo": "rank_bm25",
-            "stars": 1380,
+            "stars": 1381,
             "topics": [
               "algorithm",
               "bm25",
@@ -726,7 +726,7 @@
             "open_issues": 15,
             "owner": "AmenRa",
             "repo": "ranx",
-            "stars": 692,
+            "stars": 693,
             "topics": [
               "comparison",
               "data-fusion",
@@ -1133,7 +1133,7 @@
             "open_issues": 83,
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2277,
+            "stars": 2278,
             "topics": [
               "benchmark",
               "bert",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:16.194Z",
+    "last_updated": "2026-08-29T13:13:09.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks.",
