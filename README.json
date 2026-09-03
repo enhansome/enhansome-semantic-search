@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38678,
+            "stars": 38687,
             "topics": [
               "ai",
               "machine-learning",
@@ -40,11 +40,11 @@
             "id": 221654678,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T10:45:50Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-03T10:21:46Z",
+            "open_issues": 105,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26395,
+            "stars": 26403,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -82,11 +82,11 @@
             "id": 55072677,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-02T12:08:34Z",
-            "open_issues": 716,
+            "last_commit": "2026-09-03T12:02:34Z",
+            "open_issues": 724,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16779,
+            "stars": 16784,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -128,7 +128,7 @@
             "open_issues": 86,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14293,
+            "stars": 14292,
             "topics": [
               "approximate-nearest-neighbor-search",
               "c-plus-plus",
@@ -153,11 +153,11 @@
             "id": 286301447,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T00:11:27Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-02T22:25:22Z",
+            "open_issues": 8,
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12918,
+            "stars": 12922,
             "topics": [
               "agents",
               "ai",
@@ -195,11 +195,11 @@
             "id": 60377070,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T12:00:19Z",
-            "open_issues": 250,
+            "last_commit": "2026-09-03T11:37:13Z",
+            "open_issues": 249,
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7075,
+            "stars": 7076,
             "topics": [
               "ai",
               "big-data",
@@ -314,7 +314,7 @@
             "open_issues": 83,
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2283,
+            "stars": 2284,
             "topics": [
               "benchmark",
               "bert",
@@ -351,11 +351,11 @@
             "id": 219078084,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T22:59:28Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-02T19:49:05Z",
+            "open_issues": 80,
             "owner": "castorini",
             "repo": "pyserini",
-            "stars": 2155,
+            "stars": 2156,
             "topics": [
               "information-retrieval"
             ]
@@ -684,7 +684,7 @@
             "open_issues": 55,
             "owner": "criteo",
             "repo": "autofaiss",
-            "stars": 907,
+            "stars": 906,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
@@ -1133,7 +1133,7 @@
             "open_issues": 83,
             "owner": "beir-cellar",
             "repo": "beir",
-            "stars": 2283,
+            "stars": 2284,
             "topics": [
               "benchmark",
               "bert",
@@ -1202,7 +1202,7 @@
             "open_issues": 23,
             "owner": "brmson",
             "repo": "dataset-sts",
-            "stars": 731,
+            "stars": 732,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:10:05.688Z",
+    "last_updated": "2026-09-03T12:09:54.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks.",
