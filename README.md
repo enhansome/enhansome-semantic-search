@@ -172,17 +172,17 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,690 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-03
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,413 | 🐛 103 | 🌐 Python | 📅 2026-09-04
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,785 | 🐛 718 | 🌐 Go | 📅 2026-09-04
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,693 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-03
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,422 | 🐛 119 | 🌐 Python | 📅 2026-09-04
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,785 | 🐛 712 | 🌐 Go | 📅 2026-09-05
 * [annoy](https://github.com/spotify/annoy) ⭐ 14,292 | 🐛 86 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 12,926 | 🐛 14 | 🌐 Python | 📅 2026-09-03
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,076 | 🐛 248 | 🌐 Java | 📅 2026-09-04
+* [txtai](https://github.com/neuml/txtai) ⭐ 12,927 | 🐛 7 | 🌐 Python | 📅 2026-09-04
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,076 | 🐛 250 | 🌐 Java | 📅 2026-09-04
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,323 | 🐛 170 | 🌐 Python | 📅 2026-07-27
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,285 | 🐛 83 | 🌐 Python | 📅 2025-10-16
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,157 | 🐛 80 | 🌐 Python | 📅 2026-09-04
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,157 | 🐛 81 | 🌐 Python | 📅 2026-09-04
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,987 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
@@ -243,4 +243,4 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
