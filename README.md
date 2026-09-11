@@ -172,17 +172,17 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,722 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,466 | 🐛 131 | 🌐 Python | 📅 2026-09-10
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,798 | 🐛 734 | 🌐 Go | 📅 2026-09-10
-* [annoy](https://github.com/spotify/annoy) ⭐ 14,298 | 🐛 86 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 12,943 | 🐛 12 | 🌐 Python | 📅 2026-09-08
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,079 | 🐛 252 | 🌐 Java | 📅 2026-09-10
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 38,736 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,476 | 🐛 132 | 🌐 Python | 📅 2026-09-11
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,801 | 🐛 740 | 🌐 Go | 📅 2026-09-11
+* [annoy](https://github.com/spotify/annoy) ⭐ 14,297 | 🐛 86 | 🌐 C++ | 📅 2025-10-29
+* [txtai](https://github.com/neuml/txtai) ⭐ 12,943 | 🐛 13 | 🌐 Python | 📅 2026-09-10
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,080 | 🐛 247 | 🌐 Java | 📅 2026-09-11
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,325 | 🐛 170 | 🌐 Python | 📅 2026-07-27
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,286 | 🐛 83 | 🌐 Python | 📅 2025-10-16
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,161 | 🐛 84 | 🌐 Python | 📅 2026-09-09
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,161 | 🐛 83 | 🌐 Python | 📅 2026-09-10
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,987 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
@@ -190,7 +190,7 @@ Feel free to raise a PR on this repo!
 * [rank\_BM25](https://github.com/dorianbrown/rank_bm25) ⭐ 1,385 | 🐛 28 | 🌐 Python | 📅 2026-05-02
 * [FALCONN](https://github.com/FALCONN-LIB/FALCONN) ⭐ 1,159 | 🐛 56 | 🌐 C | 📅 2024-06-01
 * [Tensorflow Similarity](https://github.com/tensorflow/similarity) ⚠️ Archived
-* [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,005 | 🐛 10 | 🌐 Python | 📅 2026-07-11
+* [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,006 | 🐛 10 | 🌐 Python | 📅 2026-07-11
 * [pynndescent](https://github.com/lmcinnes/pynndescent) ⭐ 969 | 🐛 79 | 🌐 Python | 📅 2026-08-01
 * [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 969 | 🐛 79 | 🌐 Python | 📅 2026-08-01
 * [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) ⭐ 935 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-10-15
@@ -200,7 +200,7 @@ Feel free to raise a PR on this repo!
 * [BERTSimilarity](https://github.com/Brokenwind/BertSimilarity) ⭐ 510 | 🐛 10 | 🌐 Python | 📅 2023-03-24
 * [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py) ⭐ 500 | 🐛 30 | 🌐 Python | 📅 2024-05-03
 * [AquilaDb](https://github.com/Aquila-Network/AquilaDB) ⭐ 379 | 🐛 13 | 🌐 HTML | 📅 2024-05-06
-* [vectorai](https://github.com/vector-ai/vectorai) ⭐ 323 | 🐛 12 | 🌐 Python | 📅 2024-03-01
+* [vectorai](https://github.com/vector-ai/vectorai) ⭐ 324 | 🐛 12 | 🌐 Python | 📅 2024-03-01
 * [emoji semantic search](https://github.com/lilianweng/emoji-semantic-search) ⭐ 298 | 🐛 3 | 🌐 Python | 📅 2023-01-01
 * [deep\_text\_matching](https://github.com/wangle1218/deep_text_matching) ⭐ 289 | 🐛 9 | 🌐 Python | 📅 2020-10-20
 * [semantic-search-through-wikipedia-with-weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate) ⚠️ Archived
@@ -243,4 +243,4 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
