@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T21:53:54Z",
+            "last_commit": "2026-09-30T21:03:49Z",
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38853,
+            "stars": 38858,
             "topics": [
               "ai",
               "machine-learning",
@@ -40,11 +40,11 @@
             "id": 221654678,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T13:33:08Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-01T14:34:00Z",
+            "open_issues": 166,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26631,
+            "stars": 26637,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -82,11 +82,11 @@
             "id": 55072677,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T13:53:07Z",
-            "open_issues": 772,
+            "last_commit": "2026-10-01T14:35:37Z",
+            "open_issues": 778,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16858,
+            "stars": 16859,
             "topics": [
               "approximate-nearest-neighbor-search",
               "generative-search",
@@ -153,11 +153,11 @@
             "id": 286301447,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T13:37:31Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-01T13:58:56Z",
+            "open_issues": 12,
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 12989,
+            "stars": 12990,
             "topics": [
               "agents",
               "ai",
@@ -195,11 +195,11 @@
             "id": 60377070,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T13:55:31Z",
+            "last_commit": "2026-10-01T14:31:14Z",
             "open_issues": 258,
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7113,
+            "stars": 7115,
             "topics": [
               "ai",
               "big-data",
@@ -351,11 +351,11 @@
             "id": 219078084,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T13:43:30Z",
+            "last_commit": "2026-09-30T22:36:00Z",
             "open_issues": 81,
             "owner": "castorini",
             "repo": "pyserini",
-            "stars": 2166,
+            "stars": 2167,
             "topics": [
               "information-retrieval"
             ]
@@ -378,7 +378,7 @@
             "open_issues": 37,
             "owner": "facebookresearch",
             "repo": "SentEval",
-            "stars": 2111,
+            "stars": 2112,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
@@ -479,7 +479,7 @@
             "open_issues": 29,
             "owner": "dorianbrown",
             "repo": "rank_bm25",
-            "stars": 1397,
+            "stars": 1398,
             "topics": [
               "algorithm",
               "bm25",
@@ -705,7 +705,7 @@
             "open_issues": 11,
             "owner": "ZJULearning",
             "repo": "nsg",
-            "stars": 736,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:29.412Z"
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T13:56:56.206Z",
+    "last_updated": "2026-10-01T14:36:12.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks.",
