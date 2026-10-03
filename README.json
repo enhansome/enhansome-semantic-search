@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "scaNN",
-          "description": null,
+          "description": "google-research/google-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38861,
+            "stars": 38863,
             "topics": [
               "ai",
               "machine-learning",
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "Haystack",
-          "description": null,
+          "description": "deepset-ai/haystack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,11 +40,11 @@
             "id": 221654678,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:51:08Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-02T15:30:35Z",
+            "open_issues": 147,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26641,
+            "stars": 26645,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "weaviate",
-          "description": null,
+          "description": "weaviate/weaviate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -82,8 +82,8 @@
             "id": 55072677,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T13:46:57Z",
-            "open_issues": 783,
+            "last_commit": "2026-10-02T21:10:00Z",
+            "open_issues": 798,
             "owner": "weaviate",
             "repo": "weaviate",
             "stars": 16859,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "annoy",
-          "description": null,
+          "description": "spotify/annoy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "txtai",
-          "description": null,
+          "description": "neuml/txtai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -153,8 +153,8 @@
             "id": 286301447,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:58:56Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-02T18:39:04Z",
+            "open_issues": 19,
             "owner": "neuml",
             "repo": "txtai",
             "stars": 12990,
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "vespa",
-          "description": null,
+          "description": "vespa-engine/vespa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,8 +195,8 @@
             "id": 60377070,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:42:09Z",
-            "open_issues": 257,
+            "last_commit": "2026-10-02T22:19:18Z",
+            "open_issues": 259,
             "owner": "vespa-engine",
             "repo": "vespa",
             "stars": 7117,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "LASER",
-          "description": null,
+          "description": "facebookresearch/LASER",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -243,7 +243,7 @@
         {
           "node_type": "item",
           "title": "ELECTRA",
-          "description": null,
+          "description": "google-research/electra",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "vearch",
-          "description": null,
+          "description": "vearch/vearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "BEIR :Benchmarking IR",
-          "description": null,
+          "description": "beir-cellar/beir",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "PySerini",
-          "description": null,
+          "description": "castorini/pyserini",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -352,7 +352,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T22:36:00Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "castorini",
             "repo": "pyserini",
             "stars": 2167,
@@ -365,7 +365,7 @@
         {
           "node_type": "item",
           "title": "SentEval Toolkit",
-          "description": null,
+          "description": "facebookresearch/SentEval",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -386,7 +386,7 @@
         {
           "node_type": "item",
           "title": "embeddinghub",
-          "description": null,
+          "description": "featureform/featureform",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -420,7 +420,7 @@
         {
           "node_type": "item",
           "title": "DPR",
-          "description": null,
+          "description": "facebookresearch/DPR",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -441,7 +441,7 @@
         {
           "node_type": "item",
           "title": "REALM",
-          "description": null,
+          "description": "google-research/language",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +454,7 @@
             "open_issues": 124,
             "owner": "google-research",
             "repo": "language",
-            "stars": 1809,
+            "stars": 1810,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -466,7 +466,7 @@
         {
           "node_type": "item",
           "title": "rank_BM25",
-          "description": null,
+          "description": "dorianbrown/rank_bm25",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -479,7 +479,7 @@
             "open_issues": 29,
             "owner": "dorianbrown",
             "repo": "rank_bm25",
-            "stars": 1400,
+            "stars": 1402,
             "topics": [
               "algorithm",
               "bm25",
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "FALCONN",
-          "description": null,
+          "description": "FALCONN-LIB/FALCONN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -521,7 +521,7 @@
         {
           "node_type": "item",
           "title": "Tensorflow Similarity",
-          "description": null,
+          "description": "tensorflow/similarity",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -561,7 +561,7 @@
         {
           "node_type": "item",
           "title": "FlashRank",
-          "description": null,
+          "description": "PrithivirajDamodaran/FlashRank",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -594,7 +594,7 @@
         {
           "node_type": "item",
           "title": "pynndescent",
-          "description": null,
+          "description": "lmcinnes/pynndescent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -619,7 +619,7 @@
         {
           "node_type": "item",
           "title": "PyNNDescent",
-          "description": null,
+          "description": "lmcinnes/pynndescent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -644,7 +644,7 @@
         {
           "node_type": "item",
           "title": "natural-language-youtube-search",
-          "description": null,
+          "description": "haltakov/natural-language-youtube-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -657,7 +657,7 @@
             "open_issues": 4,
             "owner": "haltakov",
             "repo": "natural-language-youtube-search",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "clip",
               "computer-vision",
@@ -671,7 +671,7 @@
         {
           "node_type": "item",
           "title": "autofaiss",
-          "description": null,
+          "description": "criteo/autofaiss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -692,7 +692,7 @@
         {
           "node_type": "item",
           "title": "nsg",
-          "description": null,
+          "description": "ZJULearning/nsg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,7 +713,7 @@
         {
           "node_type": "item",
           "title": "ranx",
-          "description": null,
+          "description": "AmenRa/ranx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -749,7 +749,7 @@
         {
           "node_type": "item",
           "title": "BERTSimilarity",
-          "description": null,
+          "description": "Brokenwind/BertSimilarity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -777,7 +777,7 @@
         {
           "node_type": "item",
           "title": "matchzoo-py",
-          "description": null,
+          "description": "NTMC-Community/MatchZoo-py",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,7 +806,7 @@
         {
           "node_type": "item",
           "title": "AquilaDb",
-          "description": null,
+          "description": "Aquila-Network/aquila",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "vectorai",
-          "description": null,
+          "description": "vector-ai/vectorai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -888,7 +888,7 @@
         {
           "node_type": "item",
           "title": "emoji semantic search",
-          "description": null,
+          "description": "lilianweng/emoji-semantic-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -909,7 +909,7 @@
         {
           "node_type": "item",
           "title": "deep_text_matching",
-          "description": null,
+          "description": "wangle1218/deep_text_matching",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -930,7 +930,7 @@
         {
           "node_type": "item",
           "title": "semantic-search-through-wikipedia-with-weaviate",
-          "description": null,
+          "description": "weaviate/semantic-search-through-wikipedia-with-weaviate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -951,7 +951,7 @@
         {
           "node_type": "item",
           "title": "HyperTag",
-          "description": null,
+          "description": "Ravn-Tech/HyperTag",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -988,7 +988,7 @@
         {
           "node_type": "item",
           "title": "STripNet",
-          "description": null,
+          "description": "stephenleo/stripnet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1018,7 +1018,7 @@
         {
           "node_type": "item",
           "title": "redis HNSW",
-          "description": null,
+          "description": "zhao-lang/redis_hnsw",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,7 +1046,7 @@
         {
           "node_type": "item",
           "title": "BERTSerini",
-          "description": null,
+          "description": "castorini/bertserini",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,7 +1067,7 @@
         {
           "node_type": "item",
           "title": "ZhihuAgent",
-          "description": null,
+          "description": "SamuelGong/ZhihuAgent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1093,7 +1093,7 @@
         {
           "node_type": "item",
           "title": "searchy",
-          "description": null,
+          "description": "lubianat/searchy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1120,7 +1120,7 @@
         {
           "node_type": "item",
           "title": "BEIR",
-          "description": null,
+          "description": "beir-cellar/beir",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1161,7 +1161,7 @@
         {
           "node_type": "item",
           "title": "WIT : Wikipedia-based Image Text Dataset",
-          "description": null,
+          "description": "google-research-datasets/wit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1189,7 +1189,7 @@
         {
           "node_type": "item",
           "title": "Semantic Text Similarity Dataset Hub",
-          "description": null,
+          "description": "brmson/dataset-sts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:57:47.287Z",
+    "last_updated": "2026-10-03T05:08:54.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks.",
