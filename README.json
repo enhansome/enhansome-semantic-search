@@ -19,7 +19,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38928,
+            "stars": 38934,
             "topics": [
               "ai",
               "machine-learning",
@@ -41,10 +41,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T02:14:47Z",
-            "open_issues": 150,
+            "open_issues": 153,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26754,
+            "stars": 26764,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -154,10 +154,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T12:56:27Z",
-            "open_issues": 27,
+            "open_issues": 33,
             "owner": "neuml",
             "repo": "txtai",
-            "stars": 13022,
+            "stars": 13024,
             "topics": [
               "agents",
               "ai",
@@ -195,8 +195,8 @@
             "id": 60377070,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T10:18:13Z",
-            "open_issues": 261,
+            "last_commit": "2026-10-18T11:30:19Z",
+            "open_issues": 260,
             "owner": "vespa-engine",
             "repo": "vespa",
             "stars": 7128,
@@ -351,11 +351,11 @@
             "id": 219078084,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T22:41:00Z",
-            "open_issues": 84,
+            "last_commit": "2026-10-18T02:45:49Z",
+            "open_issues": 81,
             "owner": "castorini",
             "repo": "pyserini",
-            "stars": 2172,
+            "stars": 2171,
             "topics": [
               "information-retrieval"
             ]
@@ -454,7 +454,7 @@
             "open_issues": 125,
             "owner": "google-research",
             "repo": "language",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -574,7 +574,7 @@
             "open_issues": 10,
             "owner": "PrithivirajDamodaran",
             "repo": "FlashRank",
-            "stars": 1009,
+            "stars": 1010,
             "topics": [
               "cross-encoder",
               "full-text-search",
@@ -603,8 +603,8 @@
             "id": 120684701,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-17T03:39:49Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-17T19:23:53Z",
+            "open_issues": 86,
             "owner": "lmcinnes",
             "repo": "pynndescent",
             "stars": 972,
@@ -628,8 +628,8 @@
             "id": 120684701,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-17T03:39:49Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-17T19:23:53Z",
+            "open_issues": 86,
             "owner": "lmcinnes",
             "repo": "pynndescent",
             "stars": 972,
@@ -657,7 +657,7 @@
             "open_issues": 4,
             "owner": "haltakov",
             "repo": "natural-language-youtube-search",
-            "stars": 936,
+            "stars": 935,
             "topics": [
               "clip",
               "computer-vision",
@@ -726,7 +726,7 @@
             "open_issues": 19,
             "owner": "AmenRa",
             "repo": "ranx",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "comparison",
               "data-fusion",
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:40:54.133Z",
+    "last_updated": "2026-10-18T12:06:50.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of  awesome resources related to Semantic Search🔎  and Semantic Similarity tasks.",
