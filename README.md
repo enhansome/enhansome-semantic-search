@@ -172,30 +172,30 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 39,108 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,927 | 🐛 208 | 🌐 Python | 📅 2026-11-04
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,936 | 🐛 833 | 🌐 Go | 📅 2026-11-04
-* [annoy](https://github.com/spotify/annoy) ⭐ 14,331 | 🐛 100 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 13,063 | 🐛 17 | 🌐 Python | 📅 2026-11-03
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,160 | 🐛 255 | 🌐 Java | 📅 2026-11-04
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 39,117 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-05
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,930 | 🐛 201 | 🌐 Python | 📅 2026-11-05
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,938 | 🐛 840 | 🌐 Go | 📅 2026-11-05
+* [annoy](https://github.com/spotify/annoy) ⭐ 14,333 | 🐛 100 | 🌐 C++ | 📅 2025-10-29
+* [txtai](https://github.com/neuml/txtai) ⭐ 13,064 | 🐛 19 | 🌐 Python | 📅 2026-11-05
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,162 | 🐛 254 | 🌐 Java | 📅 2026-11-05
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,333 | 🐛 171 | 🌐 Python | 📅 2026-07-27
-* [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,328 | 🐛 88 | 🌐 Python | 📅 2025-10-16
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,198 | 🐛 86 | 🌐 Python | 📅 2026-11-04
+* [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,329 | 🐛 88 | 🌐 Python | 📅 2025-10-16
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,202 | 🐛 85 | 🌐 Python | 📅 2026-11-05
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,991 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
 * [REALM](https://github.com/google-research/language/tree/master/language/realm) ⭐ 1,823 | 🐛 127 | 🌐 Python | 📅 2026-06-10
-* [rank\_BM25](https://github.com/dorianbrown/rank_bm25) ⭐ 1,415 | 🐛 32 | 🌐 Python | 📅 2026-05-02
+* [rank\_BM25](https://github.com/dorianbrown/rank_bm25) ⭐ 1,415 | 🐛 33 | 🌐 Python | 📅 2026-05-02
 * [FALCONN](https://github.com/FALCONN-LIB/FALCONN) ⭐ 1,160 | 🐛 56 | 🌐 C | 📅 2024-06-01
 * [Tensorflow Similarity](https://github.com/tensorflow/similarity) ⚠️ Archived
-* [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,015 | 🐛 11 | 🌐 Python | 📅 2026-07-11
+* [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,014 | 🐛 11 | 🌐 Python | 📅 2026-07-11
 * [pynndescent](https://github.com/lmcinnes/pynndescent) ⭐ 975 | 🐛 90 | 🌐 Python | 📅 2026-11-04
 * [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 975 | 🐛 90 | 🌐 Python | 📅 2026-11-04
 * [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) ⭐ 934 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-10-15
 * [autofaiss](https://github.com/criteo/autofaiss) ⭐ 906 | 🐛 55 | 🌐 Python | 📅 2025-11-04
-* [nsg](https://github.com/ZJULearning/nsg) ⭐ 738 | 🐛 11 | 🌐 C++ | 📅 2025-09-26
+* [nsg](https://github.com/ZJULearning/nsg) ⭐ 739 | 🐛 11 | 🌐 C++ | 📅 2025-09-26
 * [ranx](https://github.com/AmenRa/ranx) ⭐ 702 | 🐛 22 | 🌐 Python | 📅 2025-08-07
 * [BERTSimilarity](https://github.com/Brokenwind/BertSimilarity) ⭐ 509 | 🐛 10 | 🌐 Python | 📅 2023-03-24
 * [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py) ⭐ 500 | 🐛 30 | 🌐 Python | 📅 2024-05-03
@@ -231,7 +231,7 @@ Feel free to raise a PR on this repo!
 
 ## Datasets
 
-* [BEIR](https://github.com/beir-cellar/beir) ⭐ 2,328 | 🐛 88 | 🌐 Python | 📅 2025-10-16
+* [BEIR](https://github.com/beir-cellar/beir) ⭐ 2,329 | 🐛 88 | 🌐 Python | 📅 2025-10-16
 * [WIT : Wikipedia-based Image Text Dataset](https://github.com/google-research-datasets/wit) ⚠️ Archived
 * [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts) ⭐ 730 | 🐛 23 | 🌐 Python | 📅 2018-05-19
 * [Facebook AI Image Similarity Challenge](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/?fbclid=IwAR31vRV0EdxRdrxtPy12neZtBJQ0H9qdLHm8Wl2DjHY09PtQdn1nEEIJVUo)
@@ -243,4 +243,4 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
