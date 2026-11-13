@@ -172,17 +172,17 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 39,161 | 🐛 2,012 | 🌐 Jupyter Notebook | 📅 2026-11-11
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 26,998 | 🐛 146 | 🌐 Python | 📅 2026-11-12
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,945 | 🐛 850 | 🌐 Go | 📅 2026-11-12
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 39,165 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-11
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 27,001 | 🐛 145 | 🌐 Python | 📅 2026-11-13
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,944 | 🐛 860 | 🌐 Go | 📅 2026-11-13
 * [annoy](https://github.com/spotify/annoy) ⭐ 14,336 | 🐛 100 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 13,338 | 🐛 16 | 🌐 Python | 📅 2026-11-11
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,176 | 🐛 260 | 🌐 Java | 📅 2026-11-12
+* [txtai](https://github.com/neuml/txtai) ⭐ 13,374 | 🐛 10 | 🌐 Python | 📅 2026-11-13
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,180 | 🐛 261 | 🌐 Java | 📅 2026-11-13
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,334 | 🐛 88 | 🌐 Python | 📅 2025-10-16
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,334 | 🐛 171 | 🌐 Python | 📅 2026-07-27
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,211 | 🐛 84 | 🌐 Python | 📅 2026-11-11
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,212 | 🐛 87 | 🌐 Python | 📅 2026-11-11
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,991 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
@@ -191,12 +191,12 @@ Feel free to raise a PR on this repo!
 * [FALCONN](https://github.com/FALCONN-LIB/FALCONN) ⭐ 1,159 | 🐛 56 | 🌐 C | 📅 2024-06-01
 * [Tensorflow Similarity](https://github.com/tensorflow/similarity) ⚠️ Archived
 * [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,015 | 🐛 12 | 🌐 Python | 📅 2026-07-11
-* [pynndescent](https://github.com/lmcinnes/pynndescent) ⭐ 976 | 🐛 84 | 🌐 Python | 📅 2026-11-12
-* [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 976 | 🐛 84 | 🌐 Python | 📅 2026-11-12
+* [pynndescent](https://github.com/lmcinnes/pynndescent) ⭐ 976 | 🐛 85 | 🌐 Python | 📅 2026-11-12
+* [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 976 | 🐛 85 | 🌐 Python | 📅 2026-11-12
 * [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) ⭐ 933 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-10-15
 * [autofaiss](https://github.com/criteo/autofaiss) ⭐ 906 | 🐛 55 | 🌐 Python | 📅 2025-11-04
 * [nsg](https://github.com/ZJULearning/nsg) ⭐ 739 | 🐛 11 | 🌐 C++ | 📅 2025-09-26
-* [ranx](https://github.com/AmenRa/ranx) ⭐ 705 | 🐛 22 | 🌐 Python | 📅 2025-08-07
+* [ranx](https://github.com/AmenRa/ranx) ⭐ 706 | 🐛 22 | 🌐 Python | 📅 2025-08-07
 * [BERTSimilarity](https://github.com/Brokenwind/BertSimilarity) ⭐ 510 | 🐛 10 | 🌐 Python | 📅 2023-03-24
 * [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py) ⭐ 500 | 🐛 30 | 🌐 Python | 📅 2024-05-03
 * [AquilaDb](https://github.com/Aquila-Network/AquilaDB) ⭐ 379 | 🐛 13 | 🌐 HTML | 📅 2024-05-06
@@ -243,4 +243,4 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
