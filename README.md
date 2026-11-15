@@ -172,17 +172,17 @@ Feel free to raise a PR on this repo!
 
 ## Libraries and Tools
 
-* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 39,174 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14
-* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 27,005 | 🐛 154 | 🌐 Python | 📅 2026-11-14
-* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,945 | 🐛 864 | 🌐 Go | 📅 2026-11-14
-* [annoy](https://github.com/spotify/annoy) ⭐ 14,337 | 🐛 100 | 🌐 C++ | 📅 2025-10-29
-* [txtai](https://github.com/neuml/txtai) ⭐ 13,397 | 🐛 20 | 🌐 Python | 📅 2026-11-13
-* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,180 | 🐛 258 | 🌐 Java | 📅 2026-11-14
+* [scaNN](https://github.com/google-research/google-research/tree/master/scann) ⭐ 39,180 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14
+* [Haystack](https://github.com/deepset-ai/haystack/) ⭐ 27,010 | 🐛 164 | 🌐 Python | 📅 2026-11-14
+* [weaviate](https://github.com/semi-technologies/weaviate) ⭐ 16,948 | 🐛 866 | 🌐 Go | 📅 2026-11-15
+* [annoy](https://github.com/spotify/annoy) ⭐ 14,339 | 🐛 100 | 🌐 C++ | 📅 2025-10-29
+* [txtai](https://github.com/neuml/txtai) ⭐ 13,403 | 🐛 21 | 🌐 Python | 📅 2026-11-13
+* [vespa](https://github.com/vespa-engine/vespa) ⭐ 7,180 | 🐛 259 | 🌐 Java | 📅 2026-11-15
 * [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived
 * [ELECTRA](https://github.com/google-research/electra) ⚠️ Archived
 * [BEIR :Benchmarking IR](https://github.com/UKPLab/beir) ⭐ 2,334 | 🐛 88 | 🌐 Python | 📅 2025-10-16
 * [vearch](https://github.com/vearch/vearch) ⭐ 2,334 | 🐛 171 | 🌐 Python | 📅 2026-07-27
-* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,213 | 🐛 85 | 🌐 Python | 📅 2026-11-13
+* [PySerini](https://github.com/castorini/pyserini) ⭐ 2,214 | 🐛 87 | 🌐 Python | 📅 2026-11-13
 * [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com) ⚠️ Archived
 * [embeddinghub](https://github.com/featureform/embeddinghub) ⭐ 1,991 | 🐛 129 | 🌐 Go | 📅 2025-07-03
 * [DPR](https://github.com/facebookresearch/DPR) ⚠️ Archived
@@ -191,8 +191,8 @@ Feel free to raise a PR on this repo!
 * [FALCONN](https://github.com/FALCONN-LIB/FALCONN) ⭐ 1,159 | 🐛 56 | 🌐 C | 📅 2024-06-01
 * [Tensorflow Similarity](https://github.com/tensorflow/similarity) ⚠️ Archived
 * [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) ⭐ 1,015 | 🐛 12 | 🌐 Python | 📅 2026-07-11
-* [pynndescent](https://github.com/lmcinnes/pynndescent) ⭐ 978 | 🐛 89 | 🌐 Python | 📅 2026-11-14
-* [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 978 | 🐛 89 | 🌐 Python | 📅 2026-11-14
+* [pynndescent](https://github.com/lmcinnes/pynndescent) ⭐ 980 | 🐛 89 | 🌐 Python | 📅 2026-11-14
+* [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 980 | 🐛 89 | 🌐 Python | 📅 2026-11-14
 * [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) ⭐ 933 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2021-10-15
 * [autofaiss](https://github.com/criteo/autofaiss) ⭐ 906 | 🐛 55 | 🌐 Python | 📅 2025-11-04
 * [nsg](https://github.com/ZJULearning/nsg) ⭐ 739 | 🐛 11 | 🌐 C++ | 📅 2025-09-26
@@ -243,4 +243,4 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
